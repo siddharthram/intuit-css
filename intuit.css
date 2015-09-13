@@ -1,0 +1,145 @@
+div#i-intuit{
+    top: 50px;
+    position:absolute;
+    left: 10px;
+    width: 20px;
+    height: 100px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+
+div#n-1-intuit {
+    top: 50px;
+    left: 50px;
+    position:absolute;
+    width: 20px;
+    height: 100px;
+    background-color:#365ebf;
+    border-radius: 5px 5px 5px 5px;
+/*
+    -ms-transform: skew(20deg,10deg);
+    -webkit-transform: skew(20deg,10deg);
+    transform: skew(20deg,10deg);
+    */
+}
+
+div#n-2-intuit {
+    top:50px;
+    left:42px;
+    position:absolute;
+    width:60px;
+    height:80px;
+    border:solid 13px #000;
+    border-color:#365ebf #365ebf transparent transparent;
+    border-top-right-radius: 70px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius:40px;
+    border-bottom-left-radius: 0px;
+    border-style: solid;
+}
+
+/*vertical part of T */
+div#t-1-intuit {
+    top: 50px;
+    left: 180px;
+    position: absolute;
+    width: 20px;
+    height: 100px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+}
+/* horizontal bar of T */
+div#t-2-intuit {
+    top: 50px;
+    left: 150px;
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+}
+
+div#t-circle {
+    top:20px;
+    left: 180px;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background-color: #365ebf;
+}
+
+div#u-1-intuit {
+    top:50px;
+    left:250px;
+    position:absolute;
+    width:40px;
+    height:65px;
+    border:solid 17px #000;
+    border-color:transparent #365ebf  #365ebf #365ebf;
+    border-bottom-left-radius:38px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 70px;
+
+    border-style: solid;
+}
+
+div#u-2-intuit{
+    top: 50px;
+    position:absolute;
+    left: 305px;
+    width: 20px;
+    height: 100px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+div#last-i-intuit{
+    top: 50px;
+    position:absolute;
+    left: 350px;
+    width: 20px;
+    height: 100px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+
+/*vertical part of T */
+div#last-t-1-intuit {
+    top: 50px;
+    left: 410px;
+    position: absolute;
+    width: 20px;
+    height: 100px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+}
+/* horizontal bar of T */
+div#last-t-2-intuit {
+    top: 50px;
+    left: 380px;
+    position: absolute;
+    width: 80px;
+    height: 15px;
+    background-color: #365ebf;
+    border-radius: 5px 5px 5px 5px;
+}
+
+div#last-t-circle {
+    top:20px;
+    left: 405px;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background-color: #365ebf;
+}
