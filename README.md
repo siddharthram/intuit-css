@@ -3,8 +3,11 @@ Intuit-CSS
 
 A weekend project to learn CSS. attempt to take the Intuit logo and render it via CSS. 
 
-<iframe width="560" height="315" src="https://github.com/siddharth/intuit-css/intuit.html" frameborder="0">demo</iframe>
+<p>
 
+https://htmlpreview.github.io/?https://github.com/siddharthram/intuit-css/blob/master/intuit.html
+
+<p>
 
 TODO
 ====
